@@ -39,4 +39,4 @@ npm run build
 
 ## INF0
 
-This project uses smelte css framework.
+This project uses smui css framework.
